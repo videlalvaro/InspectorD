@@ -1,0 +1,6 @@
+TODO:
+
+- init script
+- logging like Graphite
+- Separate classes to handle commands
+- Easy extensibility of supported commands
