@@ -1,7 +1,7 @@
 Usage
 -----
 
-python session_inspector.py
+    python session_inspector.py
 
 Commands:
 ---------
