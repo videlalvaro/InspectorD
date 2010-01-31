@@ -1,4 +1,9 @@
-Usage
+Blog Post:
+----------
+
+[Inspecting PHP Sessions From Python](http://obvioushints.blogspot.com/2010/01/inspecting-php-sessions-from-python.html "Inspecting PHP Sessions From Python"):
+
+Usage:
 -----
 
     python session_inspector.py
