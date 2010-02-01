@@ -6,7 +6,7 @@ Blog Post:
 Usage:
 -----
 
-    python session_inspector.py
+    python receiver.py
 
 Commands:
 ---------
